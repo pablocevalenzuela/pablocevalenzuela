@@ -1,25 +1,22 @@
-# ¡Hi! My name is Pablo Valenzuela 👋
-[Una sola frase poderosa: tu rol actual, tu especialidad y el valor que aportas]
+# Hi! My name is Pablo Valenzuela 👋
+I am a Computer Engineer by profession with over 14 years of experience. As a former CTO and founder of my own technology company, I bring a strong technical and executive perspective that allows me to lead software development and digital transformation projects, manage technical teams, coordinate strategically with vendors and stakeholders, and align technology strategy and roadmaps with organizational objectives.
 
-## 🚀 Proyectos Destacados (El núcleo de tu perfil)
-A los reclutadores técnicos no les interesa ver 50 repositorios clonados de tutoriales. Les interesa ver 2 o 3 proyectos reales donde expliques el **"por qué"** detrás de tus decisiones de código.
+I am currently developing a Proof of Concept (PoC) for an enterprise AI agent system, focusing on continuous improvement, cost optimization, and enhancing the solution's performance for real-world business use cases.
 
-### 🎥 [Nombre del Proyecto 1] - [Enlace al Repositorio]
-* **El Problema:** Qué dolor o necesidad resolvía este software.
-* **La Solución:** Tu enfoque arquitectónico y técnico.
-* **Mi Stack:** React, Go, PostgreSQL, AWS (Usa badges limpios de [Shields.io](https://shields.io)).
-* **Impacto/Logro:** "Reduje la latencia de la API en un 40%" o "Implementé CI/CD automatizado".
+## 🚀 Featured Projects
 
-## 🛠️ Stack Tecnológico
-Agrupa tus herramientas por categoría para demostrar orden mental. Evita los porcentajes de habilidad (ej. *Java 80%*), ya que los seniors consideran que estas métricas son subjetivas y carecen de sentido técnico.
+### 🛠️ Back-Office System for Bookland Bookstore, Chile
+* **The Problem:** Bookstore staff spent hours processing imported books and making them available for sale.
+* **The Solution:** I developed a back-office system that reduced the workload, manual effort, and errors involved in processing imported books and preparing them for sale.
+* **Tech Stack:** React, TypeScript, Python, PostgreSQL, Supabase, GCP, Django, DRF, Celery, and Redis.
+* **Impact/Achievement:** Reduced the online store sales workflow SLA by ≈56%, increased AOV (Average Order Value) by ≈30%, and cut the online channel's operational workload by ≈60%—all within a two-month timeframe—by developing and delivering a back-office system to support business operations.
 
-* **Lenguajes:** TypeScript, Python, Rust.
-* **Frameworks & Libs:** Node.js, FastAPI, Next.js.
-* **Infraestructura & BD:** Docker, PostgreSQL, Terraform.
+## 🛠️ Tech Stack
+* **Languages:** TypeScript, Python, Java, and Go.
+* **Frameworks & Libraries:** Node.js, FastAPI, and Django.
+* **Infrastructure & Databases:** Docker, PostgreSQL, and Terraform.
+* **DevSecOps & CI/CD:** GitHub Actions, Git, SonarQube, and Pytest.
+* **Cloud Providers:** GCP, AWS, and DigitalOcean.
 
-## 📈 Actividad y Código Abierto
-* Breve mención si contribuyes a proyectos de la comunidad o mantienes alguna librería.
-* Si inclues un gráfico de contribuciones, asegúrate de tener un flujo constante; un perfil senior muestra que escribe o revisa código de forma regular.
-
-## 📨 Contacto
-* [LinkedIn](Tu-Enlace) | [Email](Tu-Email) | [Portafolio Web](Tu-Enlace)
+## 📨 Contact
+* [LinkedIn](https://www.linkedin.com/in/pablo-valenzuela-carcamo/) | [Email](pabloce.valenzuela@gmail.com) | [Web Portfolio](https://pablocevalenzuela.github.io/)

@@ -21,7 +21,7 @@ I am currently developing a Proof of Concept (PoC) for an enterprise AI agent sy
 * **DevSecOps & CI/CD:** GitHub Actions, Git, SonarQube, Pytest and Jenkins.
 * **Project Management:** Scrum, PMI/PMBOK, Confluence, Jira and Slack.
 * **Cloud Providers:** GCP, AWS, and DigitalOcean.
-* **Design System and Best Practices:** REST API, GraphQL, Microservices, Cloud-Native, DDD, TDD and SOLID.
+* **Design System and Best Practices:** REST API, Microservices, Cloud-Native, DDD, TDD and SOLID.
 
 ## 📨 Contact
 * [LinkedIn](https://www.linkedin.com/in/pablo-valenzuela-carcamo/) | [Email](mailto:pabloce.valenzuela@gmail.com) | [Web Portfolio](https://pablocevalenzuela.github.io/)

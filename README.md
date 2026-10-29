@@ -3,7 +3,7 @@ I am a Computer Engineer by profession with over 14 years of experience. As a fo
 
 I am currently developing a Proof of Concept (PoC) for an enterprise AI agent system, focusing on continuous improvement, cost optimization, and enhancing the solution's performance for real-world business use cases.
 
-## 🚀 Featured Projects
+## 🚀 Some Featured Projects
 
 ### 🛠️ Back-Office System for Bookland Bookstore, Chile
 * **The Problem:** Bookstore staff spent hours processing imported books and making them available for sale.
@@ -13,10 +13,15 @@ I am currently developing a Proof of Concept (PoC) for an enterprise AI agent sy
 
 ## 🛠️ Tech Stack
 * **Languages:** TypeScript, Python, Java, and Go.
-* **Frameworks & Libraries:** Node.js, FastAPI, and Django.
-* **Infrastructure & Databases:** Docker, PostgreSQL, and Terraform.
-* **DevSecOps & CI/CD:** GitHub Actions, Git, SonarQube, and Pytest.
+* **Cybersecurity & Guardrails:** Microsoft Agent Governance Toolkit, OWASP, NIST AI RMF, Pipeline ISO 27001 and IAM/KMS in GCP.
+* **Frameworks & Libraries:** Node.js, React, AngularJS, Tailwind CSS, FastAPI, and Django.
+* **AI, Agentic System & Frameworks:** LangGraph, LangChain, ReAct, Pandas, Google Colab, LLM, NLP, Machine Learning and Deep Learning.
+* **Infrastructure & Databases:** Docker, PostgreSQL, GraphQL and Terraform.
+* **High-demand Computer Systems:** Celery and Redis.
+* **DevSecOps & CI/CD:** GitHub Actions, Git, SonarQube, Pytest and Jenkins.
+* **Project Management:** Scrum, PMI/PMBOK, Confluence, Jira and Slack.
 * **Cloud Providers:** GCP, AWS, and DigitalOcean.
+* **Design System and Best Practices:** REST API, GraphQL, Microservices, Cloud-Native, DDD, TDD and SOLID.
 
 ## 📨 Contact
-* [LinkedIn](https://www.linkedin.com/in/pablo-valenzuela-carcamo/) | [Email](pabloce.valenzuela@gmail.com) | [Web Portfolio](https://pablocevalenzuela.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/pablo-valenzuela-carcamo/) | [Email](mailto:pabloce.valenzuela@gmail.com) | [Web Portfolio](https://pablocevalenzuela.github.io/)

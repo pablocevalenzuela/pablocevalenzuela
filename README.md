@@ -13,7 +13,7 @@ I am currently developing a Proof of Concept (PoC) for an enterprise AI agent sy
 
 ## 🛠️ Tech Stack
 * **Languages:** TypeScript, Python, Java, and Go.
-* **Cybersecurity & Guardrails:** Microsoft Agent Governance Toolkit, OWASP, NIST AI RMF, Pipeline ISO 27001 and IAM/KMS in GCP.
+* **Cybersecurity & Guardrails:** Microsoft Agent Governance Toolkit, OWASP, NIST AI RMF, Pipeline ISO 27001 and IAM/KMS (GCP).
 * **Frameworks & Libraries:** Node.js, React, AngularJS, Tailwind CSS, FastAPI, and Django.
 * **AI, Agentic System & Frameworks:** LangGraph, LangChain, ReAct, Pandas, Google Colab, LLM, NLP, Machine Learning and Deep Learning.
 * **Infrastructure & Databases:** Docker, PostgreSQL, GraphQL and Terraform.
